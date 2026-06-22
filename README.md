@@ -47,33 +47,7 @@ stockflow/
 
 ---
 
-## 🚀 Local Development with Docker
-
-### Prerequisites
-- Docker Desktop installed
-
-### Steps
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/stockflow.git
-cd stockflow
-
-# 2. Copy environment file
-cp .env.example .env
-
-# 3. Start all services
-docker-compose up --build
-
-# 4. Open in browser
-# Frontend:  http://localhost:3000
-# Backend:   http://localhost:8000
-# API Docs:  http://localhost:8000/docs
-```
-
----
-
-## 🌐 Deployment Guide (Free Hosting — iPhone Friendly)
+## 🌐 Deployment Guide 
 
 > All steps below can be done entirely from your phone browser.
 
@@ -88,7 +62,7 @@ docker-compose up --build
 5. Upload ALL files from this project (maintain folder structure)
 6. Commit changes → Your repo is live!
 
-**Your GitHub URL:** `https://github.com/YOUR_USERNAME/stockflow`
+**Your GitHub URL:** `https://github.com/Lakshayyadav8407/stockflow`
 
 ---
 
